@@ -1,5 +1,7 @@
 # Orvorex
 
+CA pump.fun : ACQ31rWM7Efdkx8xreeKcmuWJE6YXesrLDPJ4V1Cpump
+
 > Your Personal AI Operating System.
 
 Orvorex is a next-generation AI operating system that unifies frontier AI models, on-chain intelligence, and personal productivity into a single command interface. Instead of switching between multiple applications, wallets, AI assistants, and blockchain explorers, Orvorex enables users to interact with their entire digital ecosystem through one intelligent workspace.
